@@ -1,0 +1,21 @@
+{
+  "name":             "mastertang/session",
+  "description": "Session Handler",
+  "keywords":         ["session", "data save","PHP" ,"php" ],
+  "time":             "2017-2-20",
+  "license" : "MIT",
+  "autoload":{
+    "psr-4":{
+      "Session\\":"./"
+    }
+  },
+  "authors": [{
+    "name":         "RuiHua Tang",
+    "email":        "547740900@qq.com",
+    "homepage":     "https://github.com/mastertang",
+    "role":         "Programmer"
+  }],
+  "require":{
+    "php": ">=5.3.0"
+  }
+}
